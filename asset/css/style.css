@@ -1,0 +1,61 @@
+/* PRIMARY COLOR CODE*/
+/* Light blue #00bcd5*/
+/* pink: #ff4181*/
+/* light green: #73d077*/
+
+.primary-color{
+    color:#00bcd5;
+}
+.primary-bg{
+    background:#00bcd5;
+}
+.white-bg{
+    background: white;
+}
+.nav-icon{
+    font-size: 13px;
+    padding: 3.5px;
+}
+.nav-li-text li{
+    font-size: 13px;
+    margin-left: 8px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Media Query Settings Here */
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+    
+ }
+
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+
+ }
+
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) { 
+
+ }
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) { 
+
+ }
+
+
